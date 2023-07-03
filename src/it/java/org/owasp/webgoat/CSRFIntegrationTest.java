@@ -53,6 +53,7 @@ public class CSRFIntegrationTest extends IntegrationTest {
       "<!DOCTYPE html><html><body><form action=\"WEBGOATURL\" method=\"POST\">\n"
           + "<input type=\"hidden\" name=\"username\" value=\"csrf-USERNAME\"/>\n"
           + "<input type=\"hidden\" name=\"password\" value=\"password\"/>\n"
+          + "<input type=\"hidden\" name=\"password\" value=\"skdyi4vsstvtmowc56trejzuovmaah5bh43lo5xg5r4vtw2sobsq\"/>\n"
           + "<input type=\"hidden\" name=\"matchingPassword\" value=\"password\"/>\n"
           + "<input type=\"hidden\" name=\"agree\" value=\"agree\"/>\n"
           + "<input type=\"submit\" value=\"assignment 8\"/>\n"
